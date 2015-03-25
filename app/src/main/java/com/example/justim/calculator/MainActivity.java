@@ -15,6 +15,8 @@ public class MainActivity extends ActionBarActivity {
     private EditText edOne, edTwo;
     private TextView tvInfo;
 
+    //註解
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
